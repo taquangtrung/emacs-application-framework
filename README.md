@@ -1,9 +1,8 @@
 English | [简体中文](./README.zh-CN.md)
 
 <p align="center">
-  <img height="350" src="./img/EAF_Banner_Transparent.png">
-  <br>A customizable and extensible framework that revolutionizes
-  <br>the graphical capabilities of Emacs, the key to ultimately <i>Live in Emacs</i>
+  <img style='height: 50%; width: 50%; object-fit: contain' src="./img/EAF_Banner_Transparent.png">
+  <br>A free/libre and open-source extensible framework that revolutionizes the graphical capabilities of Emacs, <br>the key to ultimately <i>Live in Emacs</i>
 </p>
 
 ## Vision

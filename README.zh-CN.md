@@ -1,7 +1,7 @@
 [English](./README.md) | 简体中文
 
 <p align="center">
-  <img height="350" src="./img/EAF_Banner_Transparent.png">
+  <img style='height: 50%; width: 50%; object-fit: contain' src="./img/EAF_Banner_Transparent.png">
   <br>新一代的Emacs图形应用框架，通过扩展Emacs的多媒体能力，达到 Live in Emacs 的终极目标
 </p>
 
